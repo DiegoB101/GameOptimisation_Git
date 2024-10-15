@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/EndlessRunner/RunnerLevel.umap",
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
