@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/EndlessRunner/RunnerLevel.umap",
-				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation_Git/Content/EndlessRunner/Platform1.uasset",
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation_Git/Content/EndlessRunner/Platform2.uasset",
+				"C:/Users/diego/Documents/Unreal Projects/GameOptimisation_Git/Content/EndlessRunner/RunnerLevel.umap"
 			]
 		}
 	]
